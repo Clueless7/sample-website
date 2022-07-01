@@ -4,4 +4,8 @@ loginButton.addEventListener("click", loginClicked);
 
 function loginClicked(event) {
   console.log("hello");
+  alert("hello")
 }
+
+
+
